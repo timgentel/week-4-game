@@ -1,4 +1,29 @@
+.top-banner {
+    background:#bcbbf0;
+    
+    height: 100px;
+
+}
+h1{
+    
+    margin:20px;
+   
+}
 .crystals {
-    width: 200px;
-    height: 200px;
+    max-width: 100px;
+    max-height: 100px;
+    
+}
+.wins {
+    background-color:#9e528a;
+    
+    
+}
+.losses{
+    background-color:#9e528a;
+}
+.scores{
+    background-color: #5be2e0;
+   
+
 }
